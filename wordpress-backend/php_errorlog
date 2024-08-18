@@ -1,0 +1,6 @@
+[14-Jun-2024 05:46:04 UTC] wp_auto_login: trying to login user_id==1 loginusername=fred.c.graybeal@gmail.com to admin_url=http://fredgraybeal.com/wp-admin/
+[14-Jun-2024 05:51:39 UTC] wp_auto_login: trying to login user_id==1 loginusername=fred.c.graybeal@gmail.como to admin_url=http://fredgraybeal.com/wp-admin/
+[02-Aug-2024 11:29:30 UTC] PHP Warning:  Undefined array key "host" in /home/customer/www/fredgraybeal.com/public_html/wp-includes/canonical.php on line 716
+[02-Aug-2024 11:29:30 UTC] PHP Warning:  Undefined array key "host" in /home/customer/www/fredgraybeal.com/public_html/wp-includes/canonical.php on line 727
+[02-Aug-2024 11:29:30 UTC] PHP Warning:  Undefined array key "host" in /home/customer/www/fredgraybeal.com/public_html/wp-includes/canonical.php on line 716
+[02-Aug-2024 11:29:30 UTC] PHP Warning:  Undefined array key "host" in /home/customer/www/fredgraybeal.com/public_html/wp-includes/canonical.php on line 727
